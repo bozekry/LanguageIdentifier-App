@@ -29,6 +29,9 @@
 
 <p style="font-size: 20px;">I used a Naive Bayes classifier to train a model on the bag-of-words representation of the dataset. The classifier is a probabilistic model that calculates the probability of a text belonging to each of the 17 languages, based on its bag-of-words representation.
 I used the scikit-learn library to implement the Naive Bayes classifier.</p>
+<h1 style="font-size: 36px;">Deploy model using streamlit library</h1>
+
+<p style="font-size: 20px;">The project is deployed using Streamlit, a Python library that allows you to create interactive web apps. Users can input text and the model will predict the language of the text. The web app is easy to use and provides a user-friendly interface for language identification.</p>
 <h1 style="font-size: 36px;">Usage</h1>
 
 <p style="font-size: 20px;">To use the language identifier, you can download pkl file and python file then write in your terminal (streamlit run LanguageIdentifier.py) in your local machine and provide a text file as input. The script will output the predicted language for the text.</p>

@@ -36,7 +36,7 @@ I used the scikit-learn library to implement the Naive Bayes classifier.</p>
 
 <h1 style="font-size: 36px;">Conclusion</h1>
 <p style="font-size: 20px;">Overall, this language identifier project demonstrates how bag-of-words representation and Naive Bayes classification can be used to classify text into multiple languages. The project also shows how the re library can be used for text preprocessing (removing non-alphabetic characters and converting text to lowercase). The project can be extended to include more languages and more advanced text processing techniques.</p>
-<h1 style="font-size: 36px;">the shape of the app</h1>
+<h1 style="font-size: 36px;">The shape of the app</h1>
 
 ![Deployment](https://github.com/bozekry/LanguageIdentifier-App/blob/main/Screenshot%20(106).png)
 

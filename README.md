@@ -31,7 +31,7 @@
 I used the scikit-learn library to implement the Naive Bayes classifier.</p>
 <h1 style="font-size: 36px;">Usage</h1>
 
-<p style="font-size: 20px;">To use the language identifier, you can run the (streamlit run LanguageIdentifier.py) in your local machine and provide a text file as input. The script will output the predicted language for the text.</p>
+<p style="font-size: 20px;">To use the language identifier, you can download pkl file and python file then write in your terminal (streamlit run LanguageIdentifier.py) in your local machine and provide a text file as input. The script will output the predicted language for the text.</p>
 
 
 <h1 style="font-size: 36px;">Conclusion</h1>
